@@ -172,17 +172,6 @@ motto: "Building intelligent systems that solve real-world problems"
 
 <br>
 
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0D1117&color=00E5FF&line=00E5FF&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity)](https://github.com/YOUR_GITHUB_USERNAME)
-
-</div>
-
-<br>
-
----
 
 <br>
 
