@@ -116,7 +116,7 @@ motto: "Building intelligent systems that solve real-world problems"
 
 | 🤖 Project | 📝 Description | 🛠️ Tech Stack |
 |:-----------|:--------------|:--------------|
-| **AI/ML Projects** | Building intelligent systems with Deep Learning, Computer Vision, and NLP | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) |
+| **AI/ML Projects** | Building intelligent systems with Deep Learning and NLP | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) |
 | **Full-Stack Apps** | Scalable web applications with modern architecture | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
 
 </div>
@@ -139,7 +139,7 @@ motto: "Building intelligent systems that solve real-world problems"
 |:--------------|:---------|:--------|
 | 🎯 **Finalist** | KRIYA Hackathon | 2024 |
 | 🎯 **Finalist** | KPRIET NextGen Coding League | 2024 |
-| 🏅 **Top 6** | Odoo Hackathon | 2024 |
+| 🏅 **Top 6** | Odoo Hackathon | 2026 |
 
 </div>
 
