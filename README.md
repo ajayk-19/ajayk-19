@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Ajay Anbarasu
 
-### 🤖 AI/ML Developer | Full-Stack Engineer | Problem Solver
+### 🤖 DATA SCIENTIST | AI/ML Developer | Full-Stack Engineer | Problem Solver
 
 <br>
 
@@ -28,7 +28,7 @@
 ```yaml
 name: Ajay Anbarasu
 role: AI/ML Developer & Full-Stack Engineer
-education: Pre-Final Year @ SKCE&T, Coimbatore
+education: Pre-Final Year @ SKCET, Coimbatore
 focus: Artificial Intelligence | Machine Learning | Deep Learning
 status: Open to Internships & Collaborations
 motto: "Building intelligent systems that solve real-world problems"
@@ -156,7 +156,7 @@ motto: "Building intelligent systems that solve real-world problems"
 
 ### 🏛️ Bachelor of Engineering in Computer Science
 **Sri Krishna College of Engineering & Technology, Coimbatore**  
-📅 Pre-Final Year (3rd Year) | 🎯 Focus: AI/ML & Software Development
+📅 Pre-Final Year (3rd Year) | 🎯 Focus: AI/ML & Software Development | CGPA: 8.49
 
 <br>
 
@@ -191,14 +191,6 @@ motto: "Building intelligent systems that solve real-world problems"
 <br>
 
 ### ⭐ If you find my work interesting, consider starring my repositories!
-
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=00E5FF&style=for-the-badge&label=Profile+Views)
-
-<br>
-
----
 
 <div align="center">
   
