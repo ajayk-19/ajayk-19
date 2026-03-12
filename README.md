@@ -42,7 +42,7 @@
   
 [![Email](https://img.shields.io/badge/EMAIL-ajaykalimuthu05%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ajaykalimuthu05@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-Ajay_Anbarasu-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajay-anbarasu-595584290/)
-[![Resume](https://img.shields.io/badge/RESUME-View_PDF-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1RzPhUL_mMPdmKC1D3U8wGR6vf0VOvfcu/view?usp=drive_link)
+[![Resume](https://img.shields.io/badge/RESUME-View_PDF-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1_HAVSc22IgFNN-RBKOnZv91fkdu66NSK/view)
 [![Phone](https://img.shields.io/badge/PHONE-%2B91_8637621737-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+918637621737)
 
 </div>
