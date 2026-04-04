@@ -357,19 +357,6 @@ system_status: OPERATIONAL // PROFILE.V2.0
 
 <br>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true&background=0D1117&stroke=00E5FF&ring=00E5FF&fire=FF6B6B&currStreakLabel=00E5FF" alt="GitHub Streak" />
-
-</div>
-
-<br>
-
----
-
-<br>
 
 ## 🤝 Let's Connect!
 
